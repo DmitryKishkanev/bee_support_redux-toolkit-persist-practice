@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bee_support_redux-toolkit-practice/static/css/main.139dc68c.css",
+    "main.js": "/bee_support_redux-toolkit-practice/static/js/main.85e42f11.js",
+    "static/media/background-image.jpg": "/bee_support_redux-toolkit-practice/static/media/background-image.eefa42dbfddba2be9b7b.jpg",
+    "index.html": "/bee_support_redux-toolkit-practice/index.html",
+    "main.139dc68c.css.map": "/bee_support_redux-toolkit-practice/static/css/main.139dc68c.css.map",
+    "main.85e42f11.js.map": "/bee_support_redux-toolkit-practice/static/js/main.85e42f11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.139dc68c.css",
+    "static/js/main.85e42f11.js"
+  ]
+}
