@@ -1,6 +1,6 @@
 {
-  "name": "bee_support_redux-toolkit-practice",
-  "homepage": "https://DmitryKishkanev.github.io/bee_support_redux-toolkit-practice",
+  "name": "bee_support_redux-toolkit-persist-practice",
+  "homepage": "https://DmitryKishkanev.github.io/bee_support_redux-toolkit-persist-practice",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
